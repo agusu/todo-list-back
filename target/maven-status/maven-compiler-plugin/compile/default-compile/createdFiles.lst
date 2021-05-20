@@ -1,0 +1,7 @@
+com\agusu\todolist\task\Task.class
+com\agusu\todolist\TodolistApplication.class
+com\agusu\todolist\task\TaskConfig.class
+com\agusu\todolist\task\TaskRepository.class
+com\agusu\todolist\task\TaskService.class
+com\agusu\todolist\task\TaskController.class
+com\agusu\todolist\task\TaskDto.class
